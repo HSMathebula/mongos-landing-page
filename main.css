@@ -399,6 +399,11 @@ footer {
     margin-left: 30px;
     display: none;
   }
+
+.row {
+   justify-content: space-between!important;
+}
+
   @media (max-width: 600px){
       .digital {
           display: block;
